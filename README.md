@@ -1,6 +1,6 @@
 # Scratch Bonanza Server
 
-The server of [Scratch Bonanza](https://github.com/michaelkolesidis/scratch-bonanza).
+The server of [Scratch Bonanza](https://github.com/reactapex/luck-scratch-game-server).
 
 ## Instructions
 
@@ -16,7 +16,7 @@ yarn
 yarn start
 ```
 
-**3.** Start the frontend, following the instructions in the [Scratch Bonanza](https://github.com/michaelkolesidis/scratch-bonanza) repository.
+**3.** Start the frontend, following the instructions in the [Scratch Bonanza](https://github.com/reactapex/luck-scratch-game-server) repository.
 
 ## Features
 
@@ -60,7 +60,7 @@ The core technologies of _Scratch Bonanza Server_ are Node and [CORS](https://en
 
 ## See Also
 
-- [Scratch Bonanza](https://github.com/michaelkolesidis/scratch-bonanza)
+- [Scratch Bonanza](https://github.com/reactapex/luck-scratch-game-server)
 
 ## License
 
